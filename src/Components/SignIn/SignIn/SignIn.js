@@ -7,7 +7,7 @@ import githubIcon from '../../images/login/github.png'
 
 const SignIn = () =>
 {
-    const { formAction,signInWithGoogle,error } = useAuth();
+    const { formAction,signInWithGoogle,error,signInWithGithub } = useAuth();
     return (
         <div className='text-center banner'>
             <h3 className='text-red-600 text-center'>{error}</h3>
@@ -19,7 +19,7 @@ const SignIn = () =>
                 <img className='w-10' src={googleIcon} alt="Google" />
                 <h3 className='px-3 text-2xl'>Continue with google</h3>
             </div>
-            <div className='bg-white cursor-pointer my-3 flex justify-center m-auto py-3 rounded-full w-1/4'>
+            <div onClick={signInWithGithub} className='bg-white cursor-pointer my-3 flex justify-center m-auto py-3 rounded-full w-1/4'>
                 <img className='w-10' src={githubIcon} alt="Google" />
                 <h3 className='px-3 text-2xl'>Continue with github</h3>
             </div>
