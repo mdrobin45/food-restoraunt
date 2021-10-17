@@ -1,0 +1,146 @@
+[
+    {
+        "strMeal": "Begal and Cream Chease",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "49",
+        "strMealThumb": "https://i.ibb.co/zmq6kyb/breakfast1.png",
+        "idMeal": "breakfast52959",
+        "category": "breakfast"
+    },
+    {
+        "strMeal": "Breakfast Sandwich",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "39",
+        "strMealThumb": "https://i.ibb.co/Sdg1FyR/breakfast2.png",
+        "idMeal": "breakfast52819",
+        "category": "breakfast"
+    },
+    {
+        "strMeal": "Baked Chicken",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "59",
+        "strMealThumb": "https://i.ibb.co/ctnzm6X/breakfast3.png",
+        "idMeal": "breakfast52944",
+        "category": "breakfast"
+    },
+    {
+        "strMeal": "Eggs Benedict",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "29",
+        "strMealThumb": "https://i.ibb.co/Kxf6Lb7/breakfast4.png",
+        "idMeal": "breakfast53043",
+        "category": "breakfast"
+    },
+    {
+        "strMeal": "Tost Croissant Fried Egg",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "34",
+        "strMealThumb": "https://i.ibb.co/pKm3ZQD/breakfast5.png",
+        "idMeal": "breakfast52802",
+        "category": "breakfast"
+    },
+    {
+        "strMeal": "Full Breakfast Fried Egg Toast Bruch",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "27",
+        "strMealThumb": "https://i.ibb.co/ChfFjk5/breakfast6.png",
+        "idMeal": "breakfast52918",
+        "category": "breakfast"
+    },
+    {
+        "strMeal": "Healthy Meal Plan",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "45",
+        "strMealThumb": "https://i.ibb.co/dLcYbb2/lunch1.png",
+        "idMeal": "lunch52959",
+        "category": "lunch"
+    },
+    {
+        "strMeal": "Fried Chicken Bento",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "39",
+        "strMealThumb": "https://i.ibb.co/0nbRSLt/lunch2.png",
+        "idMeal": "lunch52819",
+        "category": "lunch"
+    },
+    {
+        "strMeal": "Tarragon Rubbed Salmon",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "49",
+        "strMealThumb": "https://i.ibb.co/LtxffQn/lunch3.png",
+        "idMeal": "lunch52944",
+        "category": "lunch"
+    },
+    {
+        "strMeal": "Indian Lunch",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "59",
+        "strMealThumb": "https://i.ibb.co/Chb50pn/lunch4.png",
+        "idMeal": "lunch53043",
+        "category": "lunch"
+    },
+    {
+        "strMeal": "Beef Steak",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "69",
+        "strMealThumb": "https://i.ibb.co/R2XKVyB/lunch5.png",
+        "idMeal": "lunch52802",
+        "category": "lunch"
+    },
+    {
+        "strMeal": "Honey Soy Glazzed Salmon With Peppers",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "52",
+        "strMealThumb": "https://i.ibb.co/kGLQ3RQ/lunch6.png",
+        "idMeal": "lunch52918",
+        "category": "lunch"
+    },
+    {
+        "strMeal": "Salmon With Grapfruit and Lentil Salad",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "49",
+        "strMealThumb": "https://i.ibb.co/b3hM8Yx/dinner1.png",
+        "idMeal": "dinner52959",
+        "category": "dinner"
+    },
+    {
+        "strMeal": "Lemony Salmon Piccata",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "59",
+        "strMealThumb": "https://i.ibb.co/m8MCc8M/dinner2.png",
+        "idMeal": "dinner52819",
+        "category": "dinner"
+    },
+    {
+        "strMeal": "Pork Tenderloin with Quinua Pilaf",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "45",
+        "strMealThumb": "https://i.ibb.co/Nn9MXCg/dinner3.png",
+        "idMeal": "dinner52944",
+        "category": "dinner"
+    },
+    {
+        "strMeal": "French Fries With Chease",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "29",
+        "strMealThumb": "https://i.ibb.co/Pt735Dm/dinner4.png",
+        "idMeal": "dinner53043",
+        "category": "dinner"
+    },
+    {
+        "strMeal": "Garlic Butter Baked Salmon",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "49",
+        "strMealThumb": "https://i.ibb.co/7kHvGG4/dinner5.png",
+        "idMeal": "dinner52802",
+        "category": "dinner"
+    },
+    {
+        "strMeal": "Baked Chicken",
+        "strMealDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis laoreet massa cursus pulvinar.",
+        "price": "57",
+        "strMealThumb": "https://i.ibb.co/bgFQd8T/dinner6.png",
+        "idMeal": "dinner52918",
+        "category": "dinner"
+    }
+]

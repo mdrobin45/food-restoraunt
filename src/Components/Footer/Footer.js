@@ -6,7 +6,7 @@ import logo from '../images/header/logo.png'
 const Footer = () => {
     return (
         <div className='bg-gray-700 py-10'>
-            <div className='text-white container flex justify-between'>
+            <div className='text-white container flex justify-between pb-16'>
                 <div>
                     <img as NavLink='/home' className='w-2/5' src={logo} alt="Logo" />
                 </div>
